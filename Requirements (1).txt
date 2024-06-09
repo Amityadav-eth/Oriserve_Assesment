@@ -1,0 +1,11 @@
+Python latest version
+Numpy
+Pandas
+Seaborn
+matplotlib
+torch
+transformers
+scikit-learn
+pickle
+config
+nltk
